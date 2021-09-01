@@ -1,0 +1,9 @@
+C:\Users\rafae\source\repos\WF projetos\CursoWF\CursoWF\bin\Debug\CursoWF.exe.config
+C:\Users\rafae\source\repos\WF projetos\CursoWF\CursoWF\bin\Debug\CursoWF.exe
+C:\Users\rafae\source\repos\WF projetos\CursoWF\CursoWF\bin\Debug\CursoWF.pdb
+C:\Users\rafae\source\repos\WF projetos\CursoWF\CursoWF\obj\Debug\CursoWF.csprojAssemblyReference.cache
+C:\Users\rafae\source\repos\WF projetos\CursoWF\CursoWF\obj\Debug\CursoWF.Properties.Resources.resources
+C:\Users\rafae\source\repos\WF projetos\CursoWF\CursoWF\obj\Debug\CursoWF.csproj.GenerateResource.cache
+C:\Users\rafae\source\repos\WF projetos\CursoWF\CursoWF\obj\Debug\CursoWF.csproj.CoreCompileInputs.cache
+C:\Users\rafae\source\repos\WF projetos\CursoWF\CursoWF\obj\Debug\CursoWF.exe
+C:\Users\rafae\source\repos\WF projetos\CursoWF\CursoWF\obj\Debug\CursoWF.pdb
