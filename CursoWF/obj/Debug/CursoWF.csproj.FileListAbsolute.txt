@@ -7,3 +7,7 @@ C:\Users\rafae\source\repos\WF projetos\CursoWF\CursoWF\obj\Debug\CursoWF.csproj
 C:\Users\rafae\source\repos\WF projetos\CursoWF\CursoWF\obj\Debug\CursoWF.csproj.CoreCompileInputs.cache
 C:\Users\rafae\source\repos\WF projetos\CursoWF\CursoWF\obj\Debug\CursoWF.exe
 C:\Users\rafae\source\repos\WF projetos\CursoWF\CursoWF\obj\Debug\CursoWF.pdb
+C:\Users\rafae\source\repos\WF projetos\CursoWF\CursoWF\bin\Debug\Frm_Hello World.resx
+C:\Users\rafae\source\repos\WF projetos\CursoWF\CursoWF\bin\Debug\Frm_Hello World.cs
+C:\Users\rafae\source\repos\WF projetos\CursoWF\CursoWF\bin\Debug\Frm_Hello World.Designer.cs
+C:\Users\rafae\source\repos\WF projetos\CursoWF\CursoWF\obj\Debug\CursoWF.Frm_HelloWorld.resources
